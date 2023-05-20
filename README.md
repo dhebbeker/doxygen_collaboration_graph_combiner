@@ -53,3 +53,6 @@ DOT_CLEANUP         = NO
     dot -O -Tsvg combined__coll__.dot
     ```
 
+## Example output
+
+![combined__coll__ dot](https://github.com/dhebbeker/doxygen_collaboration_graph_combiner/assets/1594340/2c791c7b-5b78-475c-a20d-c789c44c059f)
