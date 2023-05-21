@@ -55,4 +55,6 @@ DOT_CLEANUP         = NO
 
 ## Example output
 
-![combined__coll__ dot](https://github.com/dhebbeker/doxygen_collaboration_graph_combiner/assets/1594340/2c791c7b-5b78-475c-a20d-c789c44c059f)
+![combined__coll__ dot](https://github.com/dhebbeker/doxygen_collaboration_graph_combiner/assets/1594340/7347b97b-3418-4a9d-b836-f09cb538b688)
+
+
